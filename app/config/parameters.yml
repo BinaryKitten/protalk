@@ -1,0 +1,13 @@
+parameters:
+  database_driver: pdo_mysql
+  database_host: localhost
+  database_port: null
+  database_name: protalk
+  database_user: l
+  database_password: l
+  mailer_transpor: smtp
+  mailer_host: localhost
+  mailer_user: null
+  mailer_password: null
+  locale: en
+  secret: 843209rjewiofiefdkljlk
